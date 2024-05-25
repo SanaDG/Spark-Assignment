@@ -10,7 +10,7 @@ This project analyzes the NYC Taxi dataset using Apache Spark on Google Cloud Pl
 
 ## Team Members
 - Mohammad Masarra
-- Sanjaya
+- Sanjaya Deshapriya >Gunawardena Heeralu Aarachchige Don
 
 ## Project Structure
 ├── src
